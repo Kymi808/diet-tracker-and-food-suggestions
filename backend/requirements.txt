@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+openai
+pillow
+python-multipart
+aiofiles
+pydantic-settings
